@@ -1,0 +1,41 @@
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\bin\Debug\LibreriaCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\bin\Debug\LibreriaCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\obj\Debug\LibreriaCine.csproj.CoreCompileInputs.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\obj\Debug\LibreriaCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\obj\Debug\LibreriaCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\bin\Debug\System.Data.SqlClient.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\bin\Debug\System.Data.SqlClient.xml
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\obj\Debug\LibreriaCine.csproj.CopyComplete
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\LibreriaCine\obj\Debug\LibreriaCine.csprojAssemblyReference.cache
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\bin\Debug\LibreriaCine.dll
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\bin\Debug\LibreriaCine.pdb
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\bin\Debug\System.Data.SqlClient.dll
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\bin\Debug\System.Data.SqlClient.xml
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\obj\Debug\LibreriaCine.csproj.AssemblyReference.cache
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\obj\Debug\LibreriaCine.csproj.CoreCompileInputs.cache
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\obj\Debug\LibreriaCine.csproj.CopyComplete
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\obj\Debug\LibreriaCine.dll
+C:\Users\gabyd\Desktop\AppCine (una vez mas)\LibreriaCine\obj\Debug\LibreriaCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\LibreriaCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\LibreriaCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\System.Data.SqlClient.xml
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\obj\Debug\LibreriaCine.csprojAssemblyReference.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\obj\Debug\LibreriaCine.csproj.CoreCompileInputs.cache
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\obj\Debug\LibreriaCine.csproj.CopyComplete
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\obj\Debug\LibreriaCine.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\obj\Debug\LibreriaCine.pdb
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\Newtonsoft.Json.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\Newtonsoft.Json.xml
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\momi\Documents\Agus\Archivos Facultad\2° Cuatrimestre\Laboratorio SQL 2\TPI\Proyecto completo\LibreriaCine\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
